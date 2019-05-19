@@ -1,7 +1,7 @@
 {
     "accordion": {
     "title1": "What is Internationalization?",
-    "details1":"Internationalization is the<strong> process of planning and implementing products</strong> and services so that they can easily be adapted to specific local languages and cultures, a process called localization",
+    "details1":"Internationalization is the process of planning and implementing products and services so that they can easily be adapted to specific local languages and cultures, a process called localization",
     "title2": "How can we achieve Internationalization in React?"
   },
   "dynamic": "Hello<1>{{name}}</1>",
