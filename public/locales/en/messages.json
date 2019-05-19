@@ -1,0 +1,9 @@
+{
+  "title": "Welcome to Internationalization in React",
+  "accordionMsg": {
+    "title1": "Was ist Internationalisierung?",
+    "details1":"Internationalisierung ist der Prozess der Planung und Implementierung von Produkten und Dienstleistungen, damit sie leicht an bestimmte lokale Sprachen und Kulturen angepasst werden können, ein Prozess namens Lokalisierung",
+    "title2": "Wie können wir Internationalisierung in React erreichen?",
+    "details2":"I18next ist eines der beliebtesten und etabliertesten JavaScript-Frameworks für den kompletten Internationalisierungsanforderungen gerecht werden. React-i18next verwendet die i18next eco system und stellt es auf die richtige Weise für React-Anwendungen zur Verfügung."
+  }
+}
