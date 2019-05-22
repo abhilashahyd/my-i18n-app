@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Accordion, Icon, Message } from 'semantic-ui-react';
+import { Accordion, Icon} from 'semantic-ui-react';
 import { withTranslation, Translation  } from 'react-i18next';
 
 class AccordionSample extends Component {

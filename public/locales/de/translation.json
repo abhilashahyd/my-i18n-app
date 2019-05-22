@@ -4,9 +4,9 @@
     "details1":"Internationalisierung ist der Prozess der Planung und Implementierung von Produkten und Dienstleistungen, damit sie leicht an bestimmte lokale Sprachen und Kulturen angepasst werden können, ein Prozess namens Lokalisierung",
     "title2": "Wie können wir Internationalisierung in React erreichen?"
   },
-    "dynamic": "Hallo<1>{{name}}</1>",
-    "Hello":"Hallo",
     "site":"<p>Sie sind Besucher Nummer {{count}}.<br/>Diese Seite wurde <strong> {{count}} mal besucht.</strong><br/></p>",
-"userMessagesUnread": "Hallo <1><0>{{name}}</0></1>, you have <3>{{count}}</3>mal besucht."
-
-}
+    "userSite": "Hallo <1>{{name}}</1>,you have <3>{{count}}</3>mal besucht.<br/> ",
+    "keyDates":"Today's date :",
+     "formattedDate": "{{date, MM/DD/YYYY}}"
+     
+    }

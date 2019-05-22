@@ -15,14 +15,13 @@ i18n
     fallbackLng: 'en',
     debug: true,
     interpolation: {
-      escapeValue: false, // not needed for react as it escapes by default
-    },
-    interpolation: {
         format: function(value, format, lng) {
-            if (format === ',') return value.toUpperCase();
+          console.log(value,format,'here');
+            if (format === ',') return value.replace(',','.');
             if(value instanceof Date) return moment(value).format(format);
             return value;
-        }
+        },
+         escapeValue: false,
     },
     react: {
       bindI18n: 'languageChanged',

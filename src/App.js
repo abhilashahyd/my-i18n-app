@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import HeaderPart from "./HeaderPart";
 import AccordionSample from './AccordionSample';
