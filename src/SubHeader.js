@@ -19,10 +19,12 @@ console.log(today);
       <Trans i18nKey="site" count={count} >
         <p>You are visitor number {{count}}.<br/>This site has been <strong>visited {{count}} times.</strong><br/></p>
     </Trans>
-    {i18n.t('firstNum', {count: 1})}<br/>
-    {i18n.t('firstNum', {count: 7})}<br/>
-    {i18n.t('numWithCount', {count: 1})}<br/>
-    {i18n.t('numWithCount', {count: 7})}<br/>
+<ul>
+  <li>{i18n.t('firstNum', {count: 1})}</li>
+  <li>{i18n.t('firstNum', {count: 7})}</li>
+  <li> {i18n.t('numWithCount', {count: 1})}</li>
+  <li> {i18n.t('numWithCount', {count: 7})}</li>
+</ul>
    
  </div>
 );

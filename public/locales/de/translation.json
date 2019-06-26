@@ -5,7 +5,7 @@
     "title2": "Wie können wir Internationalisierung in React erreichen?"
   },
     "site":"<p>Sie sind Besucher Nummer {{count}}.<br/>Diese Seite wurde <strong> {{count}} mal besucht.</strong><br/></p>",
-    "userSite": "Hallo <1>{{name}}</1>,you have <3>{{count}}</3>mal besucht.<br/> ",
+    "userSite": "Hallo <1>{{name}}</1>,Sie haben <3>{{count}}</3> ungelesene Nachrichten.<br/> ",
     "keyDates":"Today's date :",
      "formattedDate": "{{date, MM/DD/YYYY}}"
      
